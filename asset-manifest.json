@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/animal-cards/static/css/main.6627337d.css",
+    "main.js": "/animal-cards/static/js/main.86eacef2.js",
+    "static/js/787.14fe134e.chunk.js": "/animal-cards/static/js/787.14fe134e.chunk.js",
+    "index.html": "/animal-cards/index.html",
+    "main.6627337d.css.map": "/animal-cards/static/css/main.6627337d.css.map",
+    "main.86eacef2.js.map": "/animal-cards/static/js/main.86eacef2.js.map",
+    "787.14fe134e.chunk.js.map": "/animal-cards/static/js/787.14fe134e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6627337d.css",
+    "static/js/main.86eacef2.js"
+  ]
+}
